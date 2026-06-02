@@ -1,6 +1,7 @@
 ## Hi there 👋my name is..sonia
 I am a BBIT student in Strathmore University and i am currently starting my tech journey and can't wait to dive in.
 
+I like to read!!
 <!--
 **soniandambuki-gif/soniandambuki-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
